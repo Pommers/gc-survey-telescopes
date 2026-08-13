@@ -1,0 +1,18 @@
+name: jwst_phot
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.12
+  - matplotlib
+  - jupyterlab
+  - numpy
+  - astropy
+  - photutils
+  - pandas
+  - adjusttext
+  - scikit-learn
+  - ipyaladin
+  - regions
+  - jupyterlab-git
+prefix: /Users/richard/miniforge3/envs/jwst_phot
