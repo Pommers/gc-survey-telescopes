@@ -1,0 +1,9 @@
+facility,filter,lambda_eff_um,M_to_ab,basis,delta_from_F814W,M_to_uncertainty_mag
+HST,F814W,0.806,-8.46,empirical F814W GCLF anchor,0.0,0.1
+JWST,F150W,1.501,-8.3,literature F150W turnover approximation,0.16000000000000014,0.2
+Subaru,i2,0.77,-8.46,F814W-equivalent first-pass approximation,0.0,0.2
+Rubin,i,0.75,-8.46,F814W-equivalent first-pass approximation,0.0,0.2
+Euclid,VIS,0.72,-8.46,F814W-equivalent first-pass approximation,0.0,0.2
+Roman,F087,0.8696,-8.46,F814W-equivalent first-pass approximation,0.0,0.2
+ELT,J,1.25,-8.21,2MASS J GCLF; M31 empirical estimate converted to AB,0.25,0.2
+TMT,J,1.25,-8.21,2MASS J GCLF; M31 empirical estimate converted to AB,0.25,0.2
